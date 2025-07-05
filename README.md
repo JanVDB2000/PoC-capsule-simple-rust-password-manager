@@ -12,7 +12,7 @@ Capsule is a minimal and secure password manager written in Rust. It uses AES-25
 # Installation
 Ensure you have Rust and Cargo installed. Then clone and build:
 ```bash
-git clone https://github.com/JanVDB2000/capsule.git
+git clone https://github.com/JanVDB2000/PoC-capsule-simple-rust-password-manager.git
 cd capsule
 cargo build --release
 ```
